@@ -34,4 +34,4 @@ The goal of this project is to create an **interactive Power BI dashboard** that
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot]([preview.png](https://github.com/michaelstern25/BlinkIT-Analysis/blob/main/BlinkIT%20Dashboard.jpg) <!-- Replace with actual file path or URL -->
+![Dashboard Preview](https://github.com/michaelstern25/BlinkIT-Analysis/blob/main/BlinkIT%20Dashboard.jpg) <!-- Replace with actual file path or URL -->
